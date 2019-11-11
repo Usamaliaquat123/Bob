@@ -1,5 +1,7 @@
 # @react-native-community/bob
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Usamaliaquat123/Bob.svg)](https://greenkeeper.io/)
+
 👷‍♂️ Simple CLI to build React Native libraries for different targets.
 
 ## Features
